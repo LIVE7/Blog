@@ -85,15 +85,15 @@
  -------------
 
 ### 6.2. 포스트 화면
- ![팝업](./screenshot/blog2.png)
+ ![포스트](./screenshot/blog2.png)
  -------------
  
 ### 6.3. 포스트 작성 및 수정 화면
- ![목록](./screenshot/blog3.png)
+ ![에디터](./screenshot/blog3.png)
  -------------
   
 ### 6.4. 카테고리 관리 화면
- ![정보](./screenshot/blog6.png)
+ ![카테고리](./screenshot/blog6.png)
  -------------
   
 ### 6.5. 댓글 화면
